@@ -1,0 +1,61 @@
+# Gert
+- I have been showing extreme initiative internally
+	- Git course
+		- Extremely appreciated.
+		- Me and Rickard have been asked to give the course again after only 1 month.
+	- Educating colleagues
+		- SHAP talk
+		- Setting up data science fortnightlies
+		- Helping Jane
+		- Helping Sarah
+	- DevOps responsible in the Nordics
+	- Azure responsible in the Nordics
+	- Python Heroes responsible in the Nordics
+	- Hiring
+		- Doing interviews
+		- Talking to headhunters
+		- Designing interview guides
+		- Reviewing CVs
+		- You are sending me out to Stockholm for an interview
+	- Writing confluence pages
+		- Git course
+		- Interview page
+		- Training page
+		- Greatest Start page
+	- Signing up for conferences
+	- Going to recruitment fares
+- I have been successful on projects
+	- Pension Client
+		- Went extremely well. The client was genuinely amazed by what I cooked up in a **week** and could finally see the value of data.
+		- I showed that I possess the people (consultancy) side and the tech side during that project.
+		- "I am super happy you were on this project with me. It shows that Valcon can do so much more than management consulting. You have brought a different viewpoint to the project and value I could not have given." - Joakim (paraphrasing)
+	- Project lead on Medicine Client without actually being allocated
+- General
+	- I have been working here for 6 months. 
+	- My contract clearly stipulates that I shall have a salary negotiation 
+	- The excuse I got about not having worked here for long enough doesn't hold water.
+	- No one has gotten a raise.
+		- How come?
+		- If anyone should get it it should be me.
+
+# Notes from Mads
+- Utilisation is high as well
+	- I got a point in the bonus round
+	- My utilisation was 83 % (including my 5 first weeks of training!) and still I had time for all of this internal stuff!
+- Inflation, like come on
+- I look into the unions recommendations
+- It is very difficult trying to find a data science lead, you need to do more to keep us on board
+- Have a concrete ask
+	- 10 %
+	- Pension
+
+# From Lase
+- [ ] Consider how we have seen you from Dec to Jan
+- [ ] "I wish to correct the decision that I has been placed on the level of 3rd year senior specialist"
+- [ ] "I need to be principal"
+- [ ] Rebecca and Line aligned criteria for role descriptions
+	- [ ] Senior specialist 1st-3rd year
+		- [ ] 1st: Blanks up for development
+		- [x] 2nd: Filling up most of the skills
+		- [ ] 3rd: Then one starts taking more Principal responsibility
+- [ ] I am ticking off Principal criteria already, so I should be 3rd year Senior Specialist.
