@@ -10,3 +10,10 @@
 4. Save news stories, selected stories, prompt to DALL E and image
 5. Enable a library to look at past images and stories
 6. Backup and delete old generations as required
+
+# Gallery
+![[img2.png]]
+![[img6.png]]![[img19.png]]![[img14.png]]
+![[img22.png]]
+![[img23.png]]
+![[img24.png]]![[img25.png]]
