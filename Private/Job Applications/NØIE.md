@@ -1,0 +1,4 @@
+# Message
+Hi Daniel, I have just been navigating your website and your profile in search of NØIE's career site. I found this link (https://careers.noie.com/) in your bio but it is unfortunately inactive. As you might have figured out I am doing this because I am looking for the next step in my career. 
+
+You gave an inspiring talk at Applied AI Nordics and our lengthy discussion after that only gave me a better impression of NØIE. So, if you have any contact details of whomever I should reach out to I would higly appreciate if you could share them with me. Additionally, if you want to have a look at my CV yourself it is attached. Thanks!
