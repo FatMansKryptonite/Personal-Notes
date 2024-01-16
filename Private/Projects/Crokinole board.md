@@ -1,0 +1,4 @@
+- Full size
+- Hook on the back for wall mounting
+- Make it with really fancy wooden inlay or herringbone pattern
+- 4 (maybe more) player colours for party games
