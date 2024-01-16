@@ -1,5 +1,5 @@
 # General
-- [ ] Write motivation for open application
+- [x] Write motivation for open application
 
 # Companies
 - [x] Lundbeck
@@ -8,4 +8,6 @@
 	- [ ] Actually apply
 - [ ] NØIE
 - [ ] Maersk
-- [ ] Andel Energin
+- [ ] Andel Energi
+- [ ] Workday
+- [ ] Uizard

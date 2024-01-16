@@ -1,0 +1,18 @@
+- Young team, 2 years
+- Small team 11 people
+- Data engineering, data science, ML etc.
+- Kristina is the Head of this team
+- Project ranging from DS, ML, computer vision in factories for quality control, gen AI
+- Quite structured development cycle
+- 3 technical people to a typical project
+- Scrum setup
+- Looks for the more complex projects
+- At least 4 sprints
+- One of the more chaotic organisations
+- 23 products in two years
+- Level 2/5 data maturity
+- VELUX team is quite commercial. Not really an opportunity for doing a Ph.D.
+- 13000 employees
+- Product development and RnD team
+- Year long projects PoC->Harden->Productionise->Productionise in other team
+- Next steps: Case study (with code), personality tests etc.
