@@ -7,7 +7,8 @@
 
 # TODO
 - [[Private/Projects/Floor lamp|Floor lamp]]
-- Yoga cushion cover
+- Router table extension
+- [[Private/Projects/Yoga cusion cover|Yoga cusion cover]]
 - Wall lamp dining room
 - [[Crokinole board]]
 - 3D printer enclosure
