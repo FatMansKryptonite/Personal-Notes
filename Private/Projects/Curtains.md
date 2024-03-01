@@ -1,6 +1,8 @@
 # Notes
 - Vertical edges are folded in 15 and then 19 mm and sewn 1-2 mm from the folded in edge
-- For the top fold we fold 1.5 and then 8 cm
+- For the top 
+	- Brown: Fold 1.5 and then 8 cm
+	- White: Fold 1.5 and then 6 cm
 - The wrinkling tape is pulled out 1/3 the length of the full tape
 - Hooks are placed every 6th hole with a hook in either end
 - The wrinkling thread is pulled from the "ugly side"

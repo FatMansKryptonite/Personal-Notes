@@ -1,9 +1,10 @@
 # In progress
 - Shelves
-- [[Pricate/Projects/Resume builder|Resume builder]]
+- [[Private/Projects/Resume builder|Resume builder]]
 - [[Private/Projects/Curtains|Curtains]]
 - [[Table saw sled]]
 - [[Private/Projects/GPT News Art Picture Frame|GPT News Art Picture Frame]]
+- Gaia's Shelf
 
 # TODO
 - [[Private/Projects/Floor lamp|Floor lamp]]

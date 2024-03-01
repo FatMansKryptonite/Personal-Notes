@@ -1,0 +1,76 @@
+# Notes
+- Nils, Principal DS, background in economics
+- Nicklas, Leading data and modelling, Ph.D., consulting
+- Support drug development
+	- Planning of trials
+	- Trial operations
+	- Early trial designs
+# Questions
+- [x] Talk more about the projects you have
+	- Trial planning
+		- Overall goal: Speed up logistical component of trial
+		- Which hospitals are suitable for a trial
+		- Finding similar trials and create a prediction 
+		- LLMs to analyse historical trials
+		- Categorical gradient boosting
+		- Spacial inference
+- [ ] What type of people work in the department?
+# TODO
+- [ ] Think about references
+	- Laura
+	- Patrick
+
+# Second interview
+- Historically team has worked on one major product
+- Now more products
+- Longer term projects
+- Trial planning
+	- Supports the process of planning trials
+	- What countries are most relevant
+- Multiple models go into this product
+- Now they support the whole process of designing trials
+	- Early trial design
+	- Selecting sites
+	- Getting in patients
+	- Trial operations
+		- Retention
+- Use many different methodologies
+	- Site selection
+		- **Categorical gradient boosting**
+			- Predicting order of site performance
+		- Hard to get predictive power
+		- Bayesian inference
+			- Explainability
+- Users have huge domain knowledge
+	- Users will not use end results if they do not understand it
+	- End users are Novo employees
+- Nicklas gets use out of his Ph.D.
+	- Heavy maths
+	- It's complex
+	- intellectually challenging
+- They are part of a larger software team
+	- They are in charge of the data tools
+	- They build no BI Tools
+	- Other developers
+	- UX designers
+- 10 Employees
+	- Budget approval to be 17
+	- Data engineers and data scientists
+	- Mostly scientists
+	- Most have a Ph.D.
+	- Physics, economics, bioengineering
+	- Mix from all over Europe
+	- Very social peopls
+	- Not required to be in the office every day
+	- Work from home once or twice per week
+- Scrum
+	- 2 week sprints
+	- PIs of 4 sprints
+	- 2 major business objectives
+	- One PI might be explainability of models
+- Industrial Ph.D. programs exist at Novo
+	- No one in the team has done that **yet**
+	- Many things to consider but not out of the picture at all
+
+## Questions
+- [x] what is the team like

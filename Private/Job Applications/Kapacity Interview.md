@@ -1,0 +1,37 @@
+- [ ] Text Nicolai Juul
+- 4 in copenhagen and 3 in Århus
+- Works with building deployment ready pipelines that actually work!
+- No one sells project for the team apart from the team itself.
+	- When they are making a sale they bring the AI team to the client to scope the project
+	- When they understand the project they make a proposal themselves
+- Values
+	- Integrity
+- Sometimes you obviously have to make powerpoints and whatnot
+- They have a knowledge sharing session every week(?)
+- They do a lot of machine learning but their customers are often asking for LLMs
+	- The customers ask for POCs
+	- [x] What is the actual request? To build chatbots?
+	- They often ask for RAC (Retreival AC) where we allow users to ask LLMs about internal documents
+	- They also make the platform (which vector database should they use)
+	- They often work with pre-trained models rather than building their own networks
+- Rather than training ML models they build applications with python using ML APIs
+- They build software rather than AI. The important part is that the solution works rather than that it uses the coolest service or architecture
+# Questions
+- [ ] What kinda projects have you had lately?
+- [x] How many people per project?
+	- The policy is that they want at least two people per project.
+	- Now they have too many requests so they put single people on the projects
+	- [x] What do you do with PRs and what not?
+		- If they are alone they don't do them
+		- They do them on the longer projects with more people
+- [ ] How long time for a project?
+- [x] What do you pay?
+	- They don't want to say how much
+	- Only on the second interview
+	- They are not leading on the salary
+- [ ] What background do the colleagues have?
+	- Analytical colleagues
+	- Never straight out of uni, normally at least 2 years experience
+- [ ] How often do you get the projects extended?
+- [ ] Do you sell POC or finished project
+- [ ] What is your staffing percentage like?
