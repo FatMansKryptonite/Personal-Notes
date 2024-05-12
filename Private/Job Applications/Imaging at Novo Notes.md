@@ -1,0 +1,29 @@
+- Majd: Ph.D. in computer vision for disease detection from CT scans
+- Disclaimers
+- Sits in AI&A AI and Analytics
+- In development they deal with human clinical trials in phase 1-3
+- 2.5 year old department
+- Mission is to impact the clinical trial process 
+- 5 Departments in AIA: Wearables, Omics, Imaging, NLP, Real world data
+- Want to leverage data coming from humans to make trials faster
+- 11 people in imaging analytics team, Boston, London, and Majd in Netherlands
+- You are not joining "Novo". You are joining a startup in Novo
+- You need to fight for the projects and the data
+- 2 roles, End to end DS person and a more generalist role SME in medical imaging 
+- Start showing proof of concept and go to final production ready system
+- 3 categories of ongoing projects
+	- Ongoing clinical trials. Should be the dominant category in a few years
+	- Retrospective analysis of completed trials to be ready for the next clinical trial in category 1
+	- Patient facing applications. Developing a hand-held portable ultrasound device to let patients scan themselves at home to identify disease. An app to let people estimate their body composition at home
+- Very research heavy type of work. Money is almost never a problem. It is a huge change management exercise
+- Want to expand from 11 to 17 people in the team this year
+# Questions
+- [x] What projects are you running currently?
+- [ ] Would you be opposed to me getting a Ph.D.?
+- [x] How big is the team in Copenhagen?
+- [x] Do you get any use of your Ph.D.?
+- [x] Are you having trouble getting projects now?
+# Next steps
+- Prepare a technical presentation of a relevant project
+- Send snippets of code I want to defend
+- A personality test

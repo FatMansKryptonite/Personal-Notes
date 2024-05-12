@@ -1,7 +1,7 @@
 # From
 ## Good
 - Done great
-- Picked up the responsibility to get hings moving
+- Picked up the responsibility to get things moving
 - There is a solution live that works and I think that is a really nice accomplishment
 - Good having me in the DEMOs
 - My presentation technique is very good, works with the business users

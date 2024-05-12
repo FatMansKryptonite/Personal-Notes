@@ -46,5 +46,3 @@
 		- Developer meeting discussing how features are implemented
 		- Discuss training results
 		- Discuss the feature set of the dashboard
-
-# Rickard's Notes on Me

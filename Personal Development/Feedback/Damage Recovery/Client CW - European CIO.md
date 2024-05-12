@@ -1,0 +1,4 @@
+- "You are doing an excellent job, Ivar, at explaining this to a layman like myself!"
+	- When explaining solution architecture to prepare them to sell this project to their internal stakeholders.
+- "It's really impressive"
+	- Regarding the solution architecture and work done in a short period of time at the client.

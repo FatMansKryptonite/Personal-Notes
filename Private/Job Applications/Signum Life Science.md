@@ -1,0 +1,97 @@
+# First interview
+- Simon driver innovation og technologi
+	- Dis ds before but more hands-off now
+	- Knows the guy who started Bastard
+- Mads earler DS now production portfolio manager
+	- DS with background in bioinformatics
+	- Like boardgames
+- Rasmus
+	- DS
+	- Renovating his flat
+	- Hasn't been working on machine learning for 1.5 y. Rather been working as a data engineer or a BI analyst.
+## Signum
+- When Simon started a while ago they had no organisation, no scrum, no backlog, no nothing
+- Employing 25 people, 8 in Copenhagen, the rest in Kiev
+- Swedish office, 4 employees
+- They have an issue with customers just asking for the data themselves so that they can do the analysis. They don't want to be data brokers though
+- Business intelligence "det er noget sådant her high flying business bullshit" - Simon
+- Grasping at straws to find ML projects that they have done. They are interested in ideating new ML projects. If there is a good idea, then make a business case, and if it's good, it will be prioritised.
+- 4 teams
+	- BI
+	- DS
+	- Dev
+	- UX/Product Innovation
+- Two parts
+	- Advisory
+		- Consultants
+	- Information og Technology
+- Customers come in with a budget and an ad-hoc project. Then they do it
+	- Sounds like consultancy...
+# Questions
+- [x] Tell me about a few of your in production models
+	- [x] What methodologies do you use
+		- Forecasting
+		- GenAI
+- [x] Tell me about your delivery cycle
+- [x] Who is in the team?
+	- [x] Professional background
+	- [x] Person background
+	- [x] Roles & responsibilities
+- [x] How big are the 4 teams?
+	- 21 people in I&T (including consultants)
+	- 4 in DS
+	- 5 in Bi
+	- 3 in UX
+	- 10 in Dev. Ops
+- [x] Data engineers?
+	- Not really any data engineers, data scientists have been doing a lot of their own de. Some DEs in Ukraine. Datalyze is their data platform
+- [x] Which cloud platform, or how are you developing?
+- [x] What do you need a data scientist for?
+	- There is product development, exploratory work, and ad-hoc projects
+	- If you want to do exploratory work then you need to be able to say no to other tasks and take the time to do it
+	- Maintenance and re-implementation of legacy systems
+	- Product development in scrum
+	- Support the rest of the organisation (ad-hoc)
+	- Small data science feature development
+	- Involved in the ideation and architecture design
+	- Some customer facing, the sales person can't understand the problem, go to the customer and figure out what the problem is
+# Second Interview
+- Jack Nuun relayed something I said to Simon "I don't see why they need a data scientist"
+- they need to drive more long term products
+	- not do ad-hoc tasks
+- workshop with client and understand what DS they might need there
+- there is a big component in figuring out what the DS team will do in the future
+- wants to move away from sales telling the DS team what they need
+- in the near future there are a lot of possibilities beyond the Danish market
+- it would mean trips to Sweden a lot
+	- more than normal business travel for me
+- Simon fears they could not challenge me
+- Simon "I cannot lead ds the way ds needs to be led", "I need to give you guys room for creativity and let you decide your own vision", "I'm concerned you are a little bit too smart for us, you might find yourself bored withing the year"
+- "We need to prepare the business case on why we need to working with this"
+- [x] What's the team contellation gonna look like
+	- 4 employed DS, 4 students
+	- Today, 2 students
+- I need to know I need to challenge myself, and Simon will give me the freedom to do what we think best
+- Mads: "there are possibilities for a lot of research and development"
+- "Our job is to build products, but we need to also, in some capacity, be consultants and maintain good relationships"
+- "I would like to offer you a job, I would normally sit with Michael and Mads, but fuck 'em"
+- they have a lean start-up approach, I need to be able to pitch the business case, but they are open to doing some crazy shit and have done crazy shit in the past
+- Spending time on projects is fine, money might be more difficult (if we need large computing power for instance)
+- They are serving their own Mistral models, cool
+- **I'm worried about not being able to learn from anyone here**
+- I will be allowed to have an opinion on what will the 4th DS person be
+	- Background, seniority level, etc.
+- Simon: "I don't expect you to work your ass off and die for the company"
+- Michael
+	- Bachelors in Business administration with a focus on statistics 
+	- Full time DS in berlin
+	- Did a masters after 2 years
+	- Came to copenhagen on a whim
+	- Graduating now
+	- Writing thesis on RAG
+	- Would like to dive deeper into RAG in the future
+	- Business administration and data science
+		- I don't know why the "business administration" is in there
+	- Currently working on the two products they have now, discussing this with Nikolaj and Rasmus
+	- Training for ironman and working less to do that
+- Get the re-ranking right
