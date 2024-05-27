@@ -1,3 +1,11 @@
+# Contract notes
+- 7 weeks of holidays, where?
+	- Might be in ferihåndbogen
+- Title: "Data Scientist"
+- Which bonus types do I partake in? (potentially 3 types)
+- Ask about holiday details (days decided by company, and sixth self-financed week)
+- Invitation to summer party
+- 
 # First interview
 - Simon driver innovation og technologi
 	- Dis ds before but more hands-off now
@@ -95,3 +103,30 @@
 	- Currently working on the two products they have now, discussing this with Nikolaj and Rasmus
 	- Training for ironman and working less to do that
 - Get the re-ranking right
+# Meeting with Søren-Ulrik
+- Concernchef for all areas
+- Been there for 8 years
+- Datalyze is a migration from oracle to Azure
+- With DS their customers have a challange in understanding how their products are bought and used in the Danish market
+- All clients, pfizer, novo, leo, lundbeck etc.
+- The clients are immature
+- Søren's ambition is larger than the Scandinavian markets
+- They have been lacking in converting their products into useful tools for the customers
+- They know exactly what they want
+- They understand the market very well, they know the customers better than themselves
+- Patient Impact Planner (PIP) is one of their products
+- Thinks my background is the right for this role
+- I have a good idea for the consultancy part even though I won't be doing that
+- I will have a central role in deciding what our products will be in the long run
+- I will be meeting data scientists from Novo
+- A lot of the smaller clients have a need for sparring with DS profiles
+- They have a 5 year strategy, they are in year 2
+- In Sweden they have a growth opportunity
+- When developing a solution that is geographically agnostic, then all companies will have the same questions, so we want to sell those on a broader market
+- They wanna scale their products
+# Questions
+- [x] What are you looking for in a Data science team
+- [x] What would my role be in the team
+- [x] I am in the middle of moving now, I might wanna start in August
+- [x] Simon mentioned travel
+- [ ] Talk to Simon about start date

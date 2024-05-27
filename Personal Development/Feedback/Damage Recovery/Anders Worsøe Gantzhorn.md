@@ -1,0 +1,2 @@
+# 360
+Ivar has been great in driving the role both as pitch lead along with driving the operational dialogue with the CEO (decision maker). The material has developed nicely following the NOSE and SCQA approach and he is now equipped to run pitch production with minimal guidance. I look forward to the future cooperation on Belfor and other clients.

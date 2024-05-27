@@ -1,0 +1,41 @@
+- [x] What's the team composition like
+	- [x] Now
+		- 2 guys working on simcorp
+		- 3 data engineers
+		- 1 front end power bi lead
+	- [x] In the future
+		- Not a team of unicorns
+		- People who are good with people and tech
+		- Someone who is good at engaging people and spark interest
+- [x] What products do you envision building?
+	- Create a model to predict which companies to invest in
+	- But currently build something on their salesforce data
+		- This is their CRM system
+		- They have a RAG solution on top of their salesforce data
+		- Novo Foundation and Bill&Melinda Gates Foundation have announced a collaboration
+	- Conducting analysis on what products to build
+	- Venture exit prediction model
+	- If we can get 0.5 % better on predicting performance we've come a long way
+	- 
+- [x] I've understood you are looking for someone a bit more senior than myself, what is it you are looking for in someone more senior?
+	- Looking for other people as well of course
+- [x] I have gotten an offer for a very similar role from a different company
+# Notes
+- There's been a data warehouse for 8 months
+	- And power bi
+- Need to help them understand that new tech is nice
+- A tech project, but more of a people project
+- The human part will be the time consuming part
+- Most projects today are pretty simple
+# Second interview (Teams)
+- I commented on his moustache
+- "You should try to be nice, but tip toeing is inefficient"
+- Digital maturity and skills in not low in general but some people are quite low
+- Spoke with a managing partner on how we can use LLMs with Computer vision
+- The MLEngineer is gonna do a monthly new tech video where they explain a new technology in the monthly newsletter
+- Thore is gonna do Lunch&Learn and have trainings with higher ups
+- Thore has just ordered a pair of Apple Vision Pro glasses, Pyramid has an app where you can make dashboards with speech
+- Building a road map at the moment
+- "Do you find me engaging to listen to", "You have to be bold to get ahead in this world"
+- He will try to persuade his manager, Nigel, that there will be need for more DS people in the future
+- 

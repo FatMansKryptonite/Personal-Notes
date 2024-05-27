@@ -70,3 +70,21 @@
 	- This is probably a defence mechanism to be able to step back and say "I said so" when a project doesn't go as planned
 - Focus more on code quality checks and the PRs and making sure the 
 	- Try to lay out a more structured work environment for collaboration
+# 360
+I had the pleasure of working closely with Ivar on the Belfor project, from the end of December 2023 to mid-February 2024, where Ivar's main role was as a Data Scientist and technical lead on the AI Invoice solution, and my primary role was a Data Engineer. 
+
+Ivar is by far one of the most intelligent and talented people I have ever had the chance to work with, and anyone would be lucky to have Ivar on their team. 
+### Overall contributions to the delivery of the Belfor project 
+- Ivar's blend of curiosity and drive for perfection, while being realistic about the project's tight deadlines, ensured that we were always delivering top-notch results that hit the mark for our client. 
+- This is currently exemplified in multiple extension opportunities and a big desire from Belfor to continue to work with Valcon, not only in Denmark but also in the rest of Europe. 
+- This is mainly due to Ivar's technical expertise of building the right ML-model, but also his ability to communicate and spot how value is generated for Belfor. This makes him a trusted advisor for the main stakeholders. 
+### Communication and business value
+- Ivar's data science skills are excellent, but it is his ability to turn complex models into real business value that sets him apart. Ivar has an ability to translate complex issues and lay them out so simply that everyone understands it (even in Danish). This is a crucial skill to have when bridging data with business understanding. 
+### Quality
+- Ivar has a lot of integrity in the solutions he delivers. He continuously deliver high-quality and is easy to trust that every issue thrown at him, will be solved. 
+- He does not care where a good idea comes from. If it works it works, and he continuously makes sure that we are delivering the right things. 
+### Team spirit and leadership potential: 
+- The Belfor project had extremely tight deadlines, and when it was crunch time and the hours would stretch out, Ivar continuously kept the spirits up. He is genuinely into making the team succeed, pitching in and offering his sparring on everything from client meetings, crafting presentations, steering committee talks and handling stakeholder interactions. 
+- Ivar has got an eye for letting people shine in their own expertise, while always being ready to brainstorm or troubleshoot outside his own areas of expertise. His feedback is always spot-on, pushing us all to do our very best without stepping on our toes. 
+- Ivar naturally takes on a mentoring role, making sure that everyone is feeling ok and that no-one has an unmanageable workload. He is always the first to ask how you are doing. 
+- Ivar has the technical knowledge and experience to set directions of complex projects, which ensures that all team-members are aligned on the deliveries. This exemplifies great leadership potential.
